@@ -37,19 +37,16 @@ export const DatePickerStyle = styled.div`
         }
     }
 
-    @media screen and (min-width: 576px) and (max-width: 676px) {
-        .date {
-            &__heading {
-                justify-content: flex-start;
-            }
-        }
-    }
-
     @media screen and (min-width: 768px) {
         .date {
             &__heading {
                 justify-content: flex-start;
             }
+        }
+
+        input.date {
+            width: 150px;
+            text-align: center;
         }
     }
 `
