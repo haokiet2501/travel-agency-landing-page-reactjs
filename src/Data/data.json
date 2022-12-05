@@ -1,0 +1,147 @@
+{
+    "reviews": [
+        {   
+            "id": 1,
+            "rating": 4.9,
+            "img": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1669290512/pictures/reviews1_hesihd.png",
+            "countries": "Milan",
+            "double": "1 Double",
+            "distance": "150m",
+            "title": "Grand Deluxe Double with Private Pool",
+            "price": "$35",
+            "text": "Per room per night"
+        },
+        {
+            "id": 2,
+            "rating": 4.9,
+            "img": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1669291977/pictures/reviews2_cv9cdy.png",
+            "countries": "France",
+            "double": "1 Double",
+            "distance": "150m",
+            "title": "Poolman Legian Lombok Place",
+            "price": "$76",
+            "text": "Per room per night"
+        },
+        {
+            "id": 3,
+            "rating": 4.9,
+            "img": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1669291977/pictures/reviews3_mzdwfp.png",
+            "countries": "Bali",
+            "double": "1 Double",
+            "distance": "150m",
+            "title": "Double Six Luxury International",
+            "price": "$76",
+            "text": "Per room per night"
+        },
+        {
+            "id": 4,
+            "rating": 4.9,
+            "img": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1669290512/pictures/reviews1_hesihd.png",
+            "countries": "Milan",
+            "double": "1 Double",
+            "distance": "200m",
+            "title": "Grand Deluxe Double with Private Pool",
+            "price": "$35",
+            "text": "Per room per night"
+        },
+        {
+            "id": 5,
+            "rating": 4.9,
+            "img": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1669291977/pictures/reviews2_cv9cdy.png",
+            "countries": "France",
+            "double": "1 Double",
+            "distance": "200m",
+            "title": "Poolman Legian Lombok Place",
+            "price": "$76",
+            "text": "Per room per night"
+        },
+        {
+            "id": 6,
+            "rating": 4.9,
+            "img": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1669291977/pictures/reviews3_mzdwfp.png",
+            "countries": "Bali",
+            "double": "1 Double",
+            "distance": "200m",
+            "title": "Double Six Luxury International",
+            "price": "$76",
+            "text": "Per room per night"
+        },
+        {
+            "id": 7,
+            "rating": 4.9,
+            "img": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1669290512/pictures/reviews1_hesihd.png",
+            "countries": "Milan",
+            "double": "1 Double",
+            "distance": "250m",
+            "title": "Grand Deluxe Double with Private Pool",
+            "price": "$35",
+            "text": "Per room per night"
+        },
+        {
+            "id": 8,
+            "rating": 4.9,
+            "img": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1669291977/pictures/reviews2_cv9cdy.png",
+            "countries": "France",
+            "double": "1 Double",
+            "distance": "250m",
+            "title": "Poolman Legian Lombok Place",
+            "price": "$76",
+            "text": "Per room per night"
+        },
+        {
+            "id": 9,
+            "rating": 4.9,
+            "img": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1669291977/pictures/reviews3_mzdwfp.png",
+            "countries": "Bali",
+            "double": "1 Double",
+            "distance": "250m",
+            "title": "Double Six Luxury International",
+            "price": "$76",
+            "text": "Per room per night"
+        }
+    ],
+    "testimonials": [
+        {
+            "id": 1,
+            "text": "Viverra vel et libero ultrices dis. Bibendum lacus mauris velit turpis ultricis faucibus. Pulvinar amet, velit ut vulputate gravida justo, a faucibus. Massa sed venenatis ullamcorper leo nunc ornare. Porttitor aliquam quis turpis blandit malesuada fermentum aliquam in.",
+            "avatar": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1669714411/pictures/author-tes_cmz0wb.png",
+            "author": "Joko Tingar",
+            "role": "Traveller"
+        },
+        {
+            "id": 2,
+            "text": "Viverra vel et libero ultrices dis. Bibendum lacus mauris velit turpis ultricis faucibus. Pulvinar amet, velit ut vulputate gravida justo, a faucibus. Massa sed venenatis ullamcorper leo nunc ornare. Porttitor aliquam quis turpis blandit malesuada fermentum aliquam in.",
+            "avatar": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1669714411/pictures/author2-tes_ikhp78.png",
+            "author": "Street Jasus",
+            "role": "Traveller"
+        },
+        {
+            "id": 3,
+            "text": "Viverra vel et libero ultrices dis. Bibendum lacus mauris velit turpis ultricis faucibus. Pulvinar amet, velit ut vulputate gravida justo, a faucibus. Massa sed venenatis ullamcorper leo nunc ornare. Porttitor aliquam quis turpis blandit malesuada fermentum aliquam in.",
+            "avatar": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1669714411/pictures/author-tes_cmz0wb.png",
+            "author": "Joko Tingar",
+            "role": "Tour Guide"
+        },
+        {
+            "id": 4,
+            "text": "Viverra vel et libero ultrices dis. Bibendum lacus mauris velit turpis ultricis faucibus. Pulvinar amet, velit ut vulputate gravida justo, a faucibus. Massa sed venenatis ullamcorper leo nunc ornare. Porttitor aliquam quis turpis blandit malesuada fermentum aliquam in.",
+            "avatar": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1669714411/pictures/author2-tes_ikhp78.png",
+            "author": "Street Jasus",
+            "role": "Tour Guide"
+        },
+        {
+            "id": 5,
+            "text": "Viverra vel et libero ultrices dis. Bibendum lacus mauris velit turpis ultricis faucibus. Pulvinar amet, velit ut vulputate gravida justo, a faucibus. Massa sed venenatis ullamcorper leo nunc ornare. Porttitor aliquam quis turpis blandit malesuada fermentum aliquam in.",
+            "avatar": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1669714411/pictures/author-tes_cmz0wb.png",
+            "author": "Joko Tingar",
+            "role": "Admin"
+        },
+        {
+            "id": 6,
+            "text": "Viverra vel et libero ultrices dis. Bibendum lacus mauris velit turpis ultricis faucibus. Pulvinar amet, velit ut vulputate gravida justo, a faucibus. Massa sed venenatis ullamcorper leo nunc ornare. Porttitor aliquam quis turpis blandit malesuada fermentum aliquam in.",
+            "avatar": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1669714411/pictures/author2-tes_ikhp78.png",
+            "author": "Street Jasus",
+            "role": "Admin"
+        }
+    ]
+}
