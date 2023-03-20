@@ -1,6 +1,6 @@
 # Travel Agency Landing Page
 
-Author: *KDEV*
+Author: **KDEV**
 
 Technology used: Reactjs, Sass, Styled-component. 
 
